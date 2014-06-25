@@ -54,3 +54,4 @@ docs/_build/
 
 .idea
 .vagrant
+bower_components
